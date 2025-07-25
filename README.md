@@ -23,8 +23,7 @@ Welcome to my Virtual CV! This web-based portfolio highlights my skills, experie
 - **Resume/CV**: I am currently completing my B.Sc IT degree, having gained practical experience as a Junior Consultant in logistics, along with internships in IT and data handling. I have also managed my own small business in baking and confectionery, which sharpened my entrepreneurial and project management skills. You can download my full CV here for a detailed overview of my education, experience, and skills.   
 - **Projects**: Here you’ll find a selection of my key projects, both individual and collaborative, showcasing my programming, web development, and creative work:
 
-    Virtual CV Website — A dynamic, responsive portfolio showcasing my professional and creative journey.
-    GitHub Repository | Live Demo
+    🔗 LinkedIn: [https://www.linkedin.com/in/kayla-supra-666821273/](https://www.linkedin.com/in/kayla-supra-666821273/)
 
     Full-Stack Web App (Group Project) — Collaborative development of a web application for event management, including user authentication and real-time updates.
     GitHub Repository | Live demo coming soon 
@@ -54,9 +53,10 @@ Welcome to my Virtual CV! This web-based portfolio highlights my skills, experie
 
     📞 Phone: 071 705 1283
 
-    🔗 GitHub: [https://github.com/kay2q3supra](https://github.com/kay2q3supra)
+🔗 GitHub: [https://github.com/kay2q3supra](https://github.com/kay2q3supra)
 
-    🌐 Portfolio: [https://kay2q3supra.github.io/virtual-cv-ks/S](https://kay2q3supra.github.io/virtual-cv-ks/S) 
+🌐 Portfolio: [https://kay2q3supra.github.io/virtual-cv-ks/](https://kay2q3supra.github.io/virtual-cv-ks/)
+
 - **Visuals**: The portfolio site features a clean, modern design with a balanced color scheme to ensure readability and accessibility. It includes:
 
     Responsive layout for desktop and mobile devices
