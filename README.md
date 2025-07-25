@@ -54,9 +54,9 @@ Welcome to my Virtual CV! This web-based portfolio highlights my skills, experie
 
     📞 Phone: 071 705 1283
 
-    🔗 GitHub: (https://github.com/kay2q3supra)
+    🔗 GitHub: [https://github.com/kay2q3supra]
 
-    🌐 Portfolio: (https://kay2q3supra.github.io/virtual-cv-ks/) 
+    🌐 Portfolio: [https://kay2q3supra.github.io/virtual-cv-ks/S] 
 - **Visuals**: The portfolio site features a clean, modern design with a balanced color scheme to ensure readability and accessibility. It includes:
 
     Responsive layout for desktop and mobile devices
