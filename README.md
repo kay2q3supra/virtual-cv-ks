@@ -20,13 +20,16 @@ Welcome to my Virtual CV! This web-based portfolio highlights my skills, experie
 ## 📁 Features
 
 - **About Me**: Hello! I’m Kayla Supra, a passionate B.Sc IT student at North-West University (Vaal Campus) with a strong interest in software development, data analytics, and creative technology. Beyond IT, I bring creativity through professional costume design, blending technical skills with artistic innovation. My career goal is to become a versatile developer who contributes to innovative projects in both technology and creative industries.
-- **Resume/CV**: I am currently completing my B.Sc IT degree, having gained practical experience as a Junior Consultant in logistics, along with internships in IT and data handling. I have also managed my own small business in baking and confectionery, which sharpened my entrepreneurial and project management skills. You can download my full CV here for a detailed overview of my education, experience, and skills.   
+- **Resume/CV**: I am currently completing my B.Sc IT degree, having gained practical experience as a Junior Consultant in logistics, along with internships in IT and data handling. I have also managed my own small business in baking and confectionery, which sharpened my entrepreneurial and project management skills. You can download my full CV and Matric Results here for a detailed overview of my education, experience, and skills.   
+- [Download my CV (PDF)](./CV_KaylaS.pdf)
+- [Download my Matric Results (PDF)](./matric-results.pdf)
 - **Projects**: Here you’ll find a selection of my key projects, both individual and collaborative, showcasing my programming, web development, and creative work:
 
     🔗 LinkedIn: [https://www.linkedin.com/in/kayla-supra-666821273/](https://www.linkedin.com/in/kayla-supra-666821273/)
 
     Full-Stack Web App (Group Project) — Collaborative development of a web application for event management, including user authentication and real-time updates.
-    GitHub Repository | Live demo coming soon 
+    🔗 Group Repository: [https://github.com/kay2q3supra/GroupRepos-CMPG323](https://github.com/kay2q3supra/GroupRepos-CMPG323)
+
 - **Skills**:
 - Technical Skills
 
